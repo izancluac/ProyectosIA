@@ -22,7 +22,7 @@ Optimización del Entrenamiento: Incrementar el número de iteraciones. Las prue
 
 Fine-tuning: Ajustar los hiperparámetros específicos de los modelos de Keras Hub una vez validados los tiempos de carga y procesamiento.
 
-Este notebook ha sifo echo con :
+Este notebook se ha realizado  con :
 
 Dataframe:
 
