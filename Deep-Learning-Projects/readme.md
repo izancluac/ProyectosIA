@@ -21,3 +21,10 @@ Balanceo de Clases: El dataset actual presenta un desbalance significativo. La p
 Optimización del Entrenamiento: Incrementar el número de iteraciones. Las pruebas iniciales fueron breves para validar la infraestructura; un entrenamiento productivo requiere ciclos más largos.
 
 Fine-tuning: Ajustar los hiperparámetros específicos de los modelos de Keras Hub una vez validados los tiempos de carga y procesamiento.
+
+Este notebook ha sifo echo con :
+DF = https://www.kaggle.com/datasets/tobiasbueck/multilingual-customer-support-tickets
+Modelos: 
+- Un transformer personalizado
+- https://www.kaggle.com/models/keras/albert/keras/albert_base_en_uncased/5
+- https://www.kaggle.com/models/keras/roberta
